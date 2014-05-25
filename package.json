@@ -19,6 +19,6 @@
     "url": "https://github.com/white-film/wf-autopages/issues"
   },
   "dependencies": {
-    "autopages": "0.0.0"
+    "autopages": "0.0.7"
   }
 }
