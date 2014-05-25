@@ -1,0 +1,24 @@
+{
+  "name": "wf-autopages",
+  "version": "0.0.0",
+  "description": "server for automatically updating white film website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/white-film/wf-autopages.git"
+  },
+  "keywords": [
+    "white-film"
+  ],
+  "author": "Matthew Conlen <mc@mathisonian.com> (http://www.mathisonian.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/white-film/wf-autopages/issues"
+  },
+  "dependencies": {
+    "autopages": "0.0.0"
+  }
+}
